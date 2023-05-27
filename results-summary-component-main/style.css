@@ -196,7 +196,7 @@ body{
 }
 /*Media querys*/
 
-@media(min-width:1000px){
+@media(min-width:1440px){
   .container{
     flex-flow: row;
     width: auto;
