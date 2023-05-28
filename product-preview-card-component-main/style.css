@@ -107,6 +107,7 @@ body {
 
 .btn img {
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .btn:hover {
