@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BrandonVG/frontend-mentor-challenges-BrandonVG/blob/master/results-summary-component-main/README-template.md)
+- Solution URL: [Add solution URL here](https://github.com/BrandonVG/frontend-mentor-challenges-BrandonVG/blob/master/results-summary-component-main/)
 - Live Site URL: [Add live site URL here](https://brandonvg.github.io/frontend-mentor-challenges-BrandonVG/results-summary-component-main/)
 
 ## My process
@@ -48,4 +48,4 @@ I used Mobile-first workflow, once i got the mobile design i worked on desktop d
 I reinforce my knowledge about how to use flexbox for responsive designs.
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BrandonVG)
+- Frontend Mentor - [@BrandonVG](https://www.frontendmentor.io/profile/BrandonVG)
